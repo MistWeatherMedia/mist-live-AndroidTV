@@ -1,6 +1,6 @@
 # Mist Live - Android TV Client
 
-An unofficial Android TV client for [Mist Live](https://mistlive.tv/), letting viewers browse and watch live streams directly on their TV.
+An official Android TV client for [Mist Live](https://mistlive.tv/), letting viewers browse and watch live streams directly on their TV.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3fc1f3fb-1ae7-4162-bee9-b2cf4d7b3434" />
 
@@ -16,7 +16,7 @@ Since this isn't on the Google Play Store, you'll need to install it manually. T
 
 > Some Android TV boxes may already allow this, or ask you to confirm the first time you try installing an APK.
 
-### Step 2: Get the app file
+### Step 2: Download the APK
 
 Download the latest `MistLive.apk` from the [Releases](../../releases) page.
 
@@ -62,10 +62,10 @@ See [LICENSE](./LICENSE) for details.
 
 ## Disclaimer
 
-This is an independent, unofficial project. It is not affiliated with or endorsed by Google or Android TV. Streams and channel content are provided by Mist Weather Media; this project only provides the Android TV client for browsing and viewing them.
+Streams and channel content are provided by Mist Weather Media; this project only provides the Android TV client for browsing and viewing them.
 
 ## Contact
 
 Questions or issues:
 [Rukasu Development Server](https://discord.gg/3KvxYqpYdF) on Discord or
-[lucascountyeas+mist@gmail.com](mailto:lucascountyeas+mist@gmail.com)
+[rukasu@mistwx.com](mailto:rukasu@mistwx.com)
